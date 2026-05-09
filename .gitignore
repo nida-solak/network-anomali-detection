@@ -1,0 +1,7 @@
+venv/
+data/dataset.csv
+__pycache__/
+*.py[cod]
+*.pyo
+*.swp
+
